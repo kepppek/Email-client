@@ -1,0 +1,27 @@
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\bin\Debug\Main.exe.config
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\bin\Debug\Main.exe
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\bin\Debug\Main.pdb
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.csprojAssemblyReference.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.Properties.Resources.resources
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.csproj.GenerateResource.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.exe
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.pdb
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\bin\Debug\Mail.dll
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\bin\Debug\Mail.pdb
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.Form1.resources
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\bin\Debug\Main.exe.config
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\bin\Debug\Main.exe
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\bin\Debug\Main.pdb
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\bin\Debug\Mail.dll
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\bin\Debug\Mail.pdb
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.Form1.resources
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.exe
+C:\Users\SuperPC\Desktop\Почтовый клиент\Main\obj\Debug\Main.pdb

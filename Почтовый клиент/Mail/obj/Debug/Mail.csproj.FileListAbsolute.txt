@@ -1,0 +1,12 @@
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\bin\Debug\Mail.dll
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\bin\Debug\Mail.pdb
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\obj\Debug\Mail.dll
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Mail\obj\Debug\Mail.pdb
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\bin\Debug\Mail.dll
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\bin\Debug\Mail.pdb
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\obj\Debug\Mail.dll
+C:\Users\SuperPC\Desktop\Почтовый клиент\Mail\obj\Debug\Mail.pdb

@@ -1,0 +1,6 @@
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\bin\Debug\Test.exe.config
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\bin\Debug\Test.exe
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\bin\Debug\Test.pdb
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\obj\Debug\Test.exe
+K:\Университет\3,1\Архитектура ВС\Почтовый клиент\Test\obj\Debug\Test.pdb
